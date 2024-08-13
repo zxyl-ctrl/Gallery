@@ -1,0 +1,11 @@
+.env
+images/
+/History/
+/bin/
+goose
+*.md
+/Homework/
+modd.conf
+/models/sql
+/tempsave
+/views
